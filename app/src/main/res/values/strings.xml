@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">EventsonSpinner</string>
+
+    <string-array name="places">
+        <item> Select Course</item>
+        <item>Android</item>
+        <item>Java</item>
+        <item>c++</item>
+        <item>Kotlin</item>
+        <item>Php</item>
+        <item>HTML</item>
+    </string-array>
+
+    <string-array name="name">
+        <item></item>
+        <item>Mr. AAAAA</item>
+        <item>Mr. BBBBB</item>
+        <item>Mr. CCCCC</item>
+        <item>Mr. DDDDD</item>
+        <item>Mr. EEEEE</item>
+        <item>Mr. FFFFF</item>
+    </string-array>
+</resources>
