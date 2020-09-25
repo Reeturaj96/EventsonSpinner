@@ -13,8 +13,8 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity
 {
     Spinner sp;
-    String course[];
-    String name[];
+    String[] course;
+    String[] name;
     TextView t1;
 
     @Override
